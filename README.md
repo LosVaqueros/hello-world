@@ -1,4 +1,6 @@
 # hello-world
 Just another repository
 
-testing branches with a quick readme edit.
+testing branches with a quick readme edit
+
+B:RetroactiveGeneration=true
